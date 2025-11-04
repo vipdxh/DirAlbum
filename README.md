@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23324477/README.md)
 # DirAlbum - 目录直读相册系统
 
 ![DirAlbum Logo](https://via.placeholder.com/800x200?text=DirAlbum+Logo)
@@ -96,6 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 作者 | Author
 - vipdxh | vipdxh - [GitHub Profile](https://github.com/vipdxh)
+- 网站 | website - (https://xyba.cn)
 - 邮箱 | Email: vipdxhl@gmail.com
 
 ## 🙏 致谢 | Acknowledgments
